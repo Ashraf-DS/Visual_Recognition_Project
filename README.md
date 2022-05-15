@@ -18,5 +18,5 @@ Visual Recognition Project on CNN(Convolutional Neural Network)
 
 # Auto detection
 ## • Build an “auto” detector using Faster RCNN/YOLO based methods (one of the above) so we have done through YOLO V3 and YOLO V5
-• We will give you some auto image data as a starting point, feel free to add or use any other data, or annotate this data (notes folder)
+• We will give you some auto image data as a starting point, feel free to add or use any other data, or annotate this data (notes folder) so we also taken more images file from Kaggle.
 • Document where the method works well or fails
